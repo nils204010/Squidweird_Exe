@@ -38,10 +38,12 @@ A 2D Unity platformer prototype where the player uses multiple “tentacles” a
 - You may encounter invisible walls; you can overcome them by jumping or briefly moving in the opposite direction.
 - If you run into issues with your tentacles, press K to reload the tentacles.
 - The Tentacle control is currently device(FPS) dependent. This may alter game-experience as the control was finetuned to unity.
+- Some Respawnpoints sometimes randomly respawn you in or outside the level
 - We are working on a fix for these problems.
+  
 
 
-Please let us know if you find any bugs or issues.
+Please let us know if you find additional bugs or issues.
 
 
 
